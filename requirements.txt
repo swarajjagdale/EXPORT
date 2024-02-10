@@ -1,0 +1,12 @@
+nltk
+tokenizers
+sentencepiece
+transformers
+pandas
+python-dotenv
+huggingface
+tensorflow
+jupyter
+notebook
+rouge-score
+torch
